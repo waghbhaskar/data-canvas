@@ -1,0 +1,19 @@
+{
+    "name": "waghbhaskar/data-canvas",
+    "description": "A PHP class for mapping dataset from various sources",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Waghbhaskar\\DataCanvas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bhaskar Wagh",
+            "email": "waghbhaskar5@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
